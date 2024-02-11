@@ -12,13 +12,13 @@ the intended use of NextJS 14.
 - [TypeScript](https://www.typescriptlang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Drizzle ORM](https://orm.drizzle.team/)
-- [Lucia Auth](https://lucia-auth.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [React Aria](https://react-spectrum.adobe.com/react-aria/)
 
 ### Other libraries used
 
 - [Zod](https://zod.dev/)
+- [Oslo Auth Utilities](https://oslo.js.org/)
 
 ## Getting Started
 
